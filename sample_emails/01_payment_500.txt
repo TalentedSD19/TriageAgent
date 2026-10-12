@@ -1,0 +1,8 @@
+Subject: Payment page shows 500 error when applying coupon
+
+Hi,
+
+When I enter a coupon code on the payment page and click Apply, the page fails with
+"500 Internal Server Error". Without a coupon, checkout works fine.
+
+Thanks
