@@ -1,0 +1,13 @@
+Subject: Public API returning 503 for every request
+
+Hi,
+
+Since 14:20 UTC every call to api.ourproduct.com fails. Our integration logs show:
+
+  HTTP 503 Service Unavailable
+  upstream connect error or disconnect/reset before headers
+
+All of our customers' automated orders are failing, so this is costing us money every
+minute. Please treat as urgent.
+
+Marco, Ops Lead

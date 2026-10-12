@@ -1,0 +1,11 @@
+Subject: La page de paiement ne se charge pas sur Safari
+
+Bonjour,
+
+Depuis hier, la page de paiement reste blanche sur Safari (iPhone et Mac). Sur Chrome,
+tout fonctionne. La console affiche : "TypeError: undefined is not an object".
+
+Plusieurs clients nous ont contactés à ce sujet.
+
+Merci,
+Julien

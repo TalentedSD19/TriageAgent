@@ -1,0 +1,11 @@
+Subject: CSV export is missing the last row
+
+Hi team,
+
+When I export the orders table to CSV, the last row is always missing. Exporting to
+Excel works fine, so we are using that for now, but our finance scripts need CSV.
+
+Steps: Orders > Export > CSV. Happens every time, any date range.
+
+Thanks,
+Priya

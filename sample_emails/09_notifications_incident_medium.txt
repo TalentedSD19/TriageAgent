@@ -1,0 +1,12 @@
+Subject: Email notifications stopped arriving this morning
+
+Hello,
+
+Since around 9am none of our team are receiving email notifications (new comments,
+assignments, etc.). The app itself works and we can see everything when we log in,
+so we are just checking manually for now.
+
+Could someone look into the notification service?
+
+Thanks,
+Dana

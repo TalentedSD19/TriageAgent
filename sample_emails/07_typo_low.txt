@@ -1,0 +1,8 @@
+Subject: Small typo on the settings page
+
+Hello,
+
+Not urgent at all, but the settings page says "Notifcation preferences" instead of
+"Notification preferences". Everything works, it just looks a bit off.
+
+Cheers

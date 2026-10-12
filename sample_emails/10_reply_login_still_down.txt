@@ -1,0 +1,11 @@
+Subject: Re: Production login is down for all users since 10am
+
+Still down for us. Now the login page shows "502 Bad Gateway" instead of timing out.
+
+On Mon, 13 Oct 2026 at 10:05, Support <support@example.com> wrote:
+> Thanks for your report. We have logged it as ticket INC0010001:
+>
+> Production login unavailable for all users
+
+(Send this as a reply to email 02 so it lands in the same thread. The quoted lines
+should be stripped and only the new text added as a ServiceNow comment.)
